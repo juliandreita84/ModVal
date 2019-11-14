@@ -1,0 +1,20 @@
+﻿{
+  "_id" : "log_bus",
+  "seq" : 1390.0
+}
+{
+  "_id" : "rules_msg",
+  "seq" : 23.0
+}
+{
+  "_id" : "routes_msg",
+  "seq" : 4.0
+}
+{
+  "_id" : "integrations",
+  "seq" : 3.0
+}
+{
+  "_id" : "aplications",
+  "seq" : 6.0
+}

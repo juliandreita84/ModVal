@@ -1,0 +1,10 @@
+﻿{
+  "_id" : "1",
+  "id_integracion" : "1",
+  "nombre_integracion" : "Integracion de Concepto"
+}
+{
+  "_id" : "2",
+  "id_integracion" : "RQ001",
+  "nombre_integracion" : "Validacion de Saldo (Flexifon / PEOPLESOFT)"
+}

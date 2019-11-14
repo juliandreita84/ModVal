@@ -1,0 +1,24 @@
+﻿{
+  "_id" : "1",
+  "id_integracion" : "1",
+  "nombre_ruta" : "PEOPLESOFT a FLEXIFON",
+  "puerto" : "8601",
+  "ruta_salida" : "http://localhost:8088/mockWsFXF/",
+  "ruta_respuesta" : "OBJECT_CONSUME",
+  "estado" : "ACTIVA",
+  "formato" : "XML",
+  "app_origen" : "2",
+  "app_destino" : "1"
+}
+{
+  "_id" : "0",
+  "id_integracion" : "1",
+  "nombre_ruta" : "FLEXIFON a PEOPLESOFT",
+  "puerto" : "8600",
+  "ruta_salida" : "http://localhost:8088/mockWsFXF/",
+  "ruta_respuesta" : "OBJECT_CONSUME",
+  "estado" : "ACTIVA",
+  "formato" : "XML",
+  "app_origen" : "1",
+  "app_destino" : "2"
+}
