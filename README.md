@@ -79,7 +79,7 @@ A continuación se describen las capacidades del servicio en términos de la(s) 
 # 4.3.1 Integración gas-service_Pagos
 En el siguiente diagrama se describen los principales componentes para el desarrollo de esta integración. El módulo Gris (Gateway) dentro del componente de orquestación, hacen parte de este diseño.
 
-
+https://raw.githubusercontent.com/juliandreita84/ModVal/master/diagramaComponentes.png
 
 
 
