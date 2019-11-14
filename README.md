@@ -176,7 +176,9 @@ El productor(s) se implementará con el nombre consultarProducer / pagarProducer
 </port>
 </service>
 </definitions>
-Esquemas
+
+- Esquemas
+
 <!--Published by JAX-WS RI (http://jax-ws.java.net). RI's version is Metro/2.4.0 (wsit240-7e98ff4; 2017-08-03T21:19:54+0200) JAXWS-RI/2.3.0 JAXWS-API/2.3.0 JAXB-RI/2.3.0 JAXB-API/2.3.0 svn-revision#unknown.-->
 <xs:schema elementFormDefault="qualified" version="1.0" targetNamespace="http://www.servicios.co/pagos/schemas" xmlns:tns="http://www.servicios.co/pagos/schemas" xmlns:xs="http://www.w3.org/2001/XMLSchema">
    <xs:element name="PagoResource" type="tns:Pago"/>
